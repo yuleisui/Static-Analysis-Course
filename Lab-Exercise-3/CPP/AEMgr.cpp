@@ -212,7 +212,7 @@ namespace SVF {
 		//     if (a > 10) {
 		//         b = a;
 		//         if (a <= 8)
-		//             b = 100;
+		//             b = 0;
 		//     }
 		//
 		//     assert(b >= 5);
